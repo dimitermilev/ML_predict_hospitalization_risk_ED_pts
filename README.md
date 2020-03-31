@@ -1,4 +1,4 @@
-# Medical Concept Recognition in Free Text
+# Predicting hospitalization risk at ED triage using Machine Learning
 
 I build and query a postgreSQL database, then tune and ensemble Random Forest, Logistic Regression and SVM classifiers to predict hospitalization risk for ED patients at triage.
 
