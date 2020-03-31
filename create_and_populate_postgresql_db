@@ -1,5 +1,0 @@
-import numpy as np
-import pandas as pd
-import pandas.io.sql as pd_sql
-import psycopg2 as pg
-from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
