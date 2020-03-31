@@ -35,7 +35,7 @@ matplotlib
 seaborn
 ```
 
-### Front end and visualization
+## Front end and visualization
 
 ```
 Tableau
