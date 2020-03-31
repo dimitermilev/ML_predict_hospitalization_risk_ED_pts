@@ -1,4 +1,4 @@
-# ML to predicting hospitalization risk at ED triage
+# ML to predict hospitalization risk at ED triage
 
 I build and query a postgreSQL database, then tune and ensemble Random Forest, Logistic Regression and SVM classifiers to predict hospitalization risk for ED patients at triage.
 
