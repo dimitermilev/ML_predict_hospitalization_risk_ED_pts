@@ -31,8 +31,6 @@ psycopg2
 numpy
 pandas
 sklearn
-matplotlib
-seaborn
 ```
 
 ## Front end and visualization
@@ -40,5 +38,7 @@ seaborn
 ```
 Tableau
 TabPy
+matplotlib
+seaborn
 ```
 
